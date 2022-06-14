@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/aniket-0703/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Irfan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdirfancse2023&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aniket Mhalungekar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdirfancse2023&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/mdirfancse/github-readme-activity-graph"><img alt="Md Irfan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdirfancse2023&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/aniket-0703/github-readme-activity-graph"><img alt="Aniket Mhalungekar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aniket-0703&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
