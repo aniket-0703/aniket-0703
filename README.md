@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vivek Patel</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h1 align="center">Hi 👋, I'm Aniket Mhalungekar</h1>
+<h3 align="center"> computer science student </h3>
 	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
-</p>
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 🌱 I’m currently learning **React.**
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 👨‍💻 All of my projects are available at [github](https://github.com/aniket-0703)
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 💬 Ask me about  **HTML**  **CSS**  & **Javascript**
+
+- 📫 How to reach me **aniketmhalungekar0703@gmail.com**
 
 
 	
@@ -19,8 +17,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -33,7 +29,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 <br>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
