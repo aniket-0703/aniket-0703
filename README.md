@@ -3,13 +3,13 @@
 	
 
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
+- 🌱 I’m currently learning **React.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/aniket-0703)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about  **HTML**  & **CSS** **Javascript**
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **aniketmhalungekar0703@gmail.com**
 
 
 	
