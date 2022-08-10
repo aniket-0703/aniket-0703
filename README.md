@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aniket Mhalungekar</h1>
-<h3 align="center"> computer science student </h3>
+ <h1 align="center">Hi 👋, I'm Vivek Patel</h1>
+<h3 align="center">A passionate computer science student from India</h3>
 	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+</p>
 
+- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
 
-- 🌱 I’m currently learning **React.**
+- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/aniket-0703)
+- 💬 Ask me about **Javascript** & **CSS**
 
-- 💬 Ask me about  **HTML**  **CSS**  & **Javascript**
-
-- 📫 How to reach me **aniketmhalungekar0703@gmail.com**
+- 📫 How to reach me **vivek.p9737@gmail.com**
 
 
 	
@@ -32,7 +34,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 
 <br>
-
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
