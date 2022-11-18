@@ -1,5 +1,6 @@
 [![MasterHead](https://wcs.uwo.ca/srs/upload/bannerfs.png)
 <h1 align="center">Hi 👋, I'm Aniket Mhalungekar</h1>
+<p> I am an Aspiring Web Developer, always curious about new problems(i use to see it as an opportunities) and bringing the best solution with an interdisciplinary collaboration. I love to work with team, which brings me additional energy. Working with a great team is always a pleasure.</p>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="center">
 <img  width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
