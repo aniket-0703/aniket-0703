@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **aniketmhalungekar0703@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u9p4i0Kn9pr3CTkVtO03Qg3dsEyimmCB/view?usp=sharing](https://drive.google.com/file/d/1u9p4i0Kn9pr3CTkVtO03Qg3dsEyimmCB/view?usp=sharing)
+- 📄 Know about my experiences [aniket-mhalungekar-resume](https://drive.google.com/file/d/1cdhEsB5bQsOF0nHGyGeocoKursMzFLKl/view?usp=share_link)
 
 - ⚡ Fun fact **I am funny.**
 
