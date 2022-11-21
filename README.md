@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Back-end course**
 
-- 👨‍💻 All of my projects are available at [https://aniket-portfolio-zeta.vercel.app/](https://aniket-portfolio-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aniket-portfolio-zeta.vercel.app/)
 
 - 💬 Ask me about **Frontend, Data-structure**
 
