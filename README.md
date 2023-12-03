@@ -1,5 +1,5 @@
 [![MasterHead](https://wcs.uwo.ca/srs/upload/bannerfs.png)
-<h1 align="center">Hi 👋, I'm Aniket Mhalungekar</h1>
+<h1 align="center">Hi 👋, I'm Aniket </h1>
 <p> I am an Aspiring Web Developer, always curious about new problems(i use to see it as an opportunities) and bringing the best solution with an interdisciplinary collaboration. I love to work with team, which brings me additional energy. Working with a great team is always a pleasure.</p>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="center">
@@ -17,13 +17,13 @@
 
 - 🌱 I’m currently learning **Back-end course**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aniket-portfolio-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio]()
 
 - 💬 Ask me about **Frontend, Data-structure**
 
-- 📫 How to reach me **aniketmhalungekar0703@gmail.com**
+- 📫 How to reach me ****
 
-- 📄 Know about my experiences [aniket-mhalungekar-resume](https://drive.google.com/file/d/1cdhEsB5bQsOF0nHGyGeocoKursMzFLKl/view?usp=share_link)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **I am funny.**
 
